@@ -44,7 +44,7 @@
                 <div class="flex justify-center mt-4 sm:items-center sm:justify-between">
                     <div class="text-center text-sm text-gray-500 sm:text-left">
                         <div class="flex items-center">
-                            <img src="https://d1s1cvliqbnbgd.cloudfront.net/usuarios/small/gaby-escort-en-santiago-0d74f2c620755e8721bdbbc429ea6c62.jpeg" alt="">
+                            <img src="{{ asset('gaby-escort-en-santiago-0d74f2c620755e8721bdbbc429ea6c62.jpeg') }}" alt="">
                         </div>
 
                         <br>
